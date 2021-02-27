@@ -29,7 +29,7 @@ The central file of our project is [./main_official.py](./main_official.py), ple
 
 ```tensorboad --logdir=logs/[logging_folder]```
 
-Some examples training scripts and evaluating scripts are provided in [./train_official.sh](./train_official.sh) and [./eval_official.sh](./eval_official.sh)
+Some examples of training scripts and evaluating scripts are provided in [./train_official.sh](./train_official.sh) and [./eval_official.sh](./eval_official.sh)
 
 
 Disclaimer: the results in this repo may not match the results reported in the paper (due to randomness) and this is not the full implementation of our original experiments.
