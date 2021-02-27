@@ -37,6 +37,16 @@ Disclaimer: the results in this repo may not match the results reported in the p
 
 If you have question, feel free to add an issue.
 
+Citation:
 
+```bash
+@InProceedings{Nguyen_2019_ICCV,
+author = {Nguyen, Khoi and Todorovic, Sinisa},
+title = {Feature Weighting and Boosting for Few-Shot Segmentation},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
+```
 
 
