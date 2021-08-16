@@ -27,7 +27,7 @@ The central file of our project is [./main_official.py](./main_official.py), ple
 
 (Optional) The training process is recorded in tensorboardX format, to read it, you can download and install tensorflow (cpu version is fine) and read it by using the command
 
-```tensorboad --logdir=logs/[logging_folder]```
+```tensorboard --logdir=logs/[logging_folder]```
 
 Some examples of training scripts and evaluating scripts are provided in [./train_official.sh](./train_official.sh) and [./eval_official.sh](./eval_official.sh)
 
